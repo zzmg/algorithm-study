@@ -1,4 +1,4 @@
-package algorithm_study
+package day1
 
 import (
 	"fmt"
